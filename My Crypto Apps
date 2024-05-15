@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Crypto Apps</title>
+
+    <!-- Farcaster Frame Metadata -->
+    <meta property="og:title" content="My Crypto Apps" />
+    <meta property="fc:frame" content="vNext" />
+    <meta property="fc:frame:image" content="https://example.com/my-crypto-apps-preview.png" />
+    
+    <!-- Frame Buttons -->
+    <meta property="fc:frame:button:1" content="CoinTracker" />
+    <meta property="fc:frame:button:1:action" content="link" />
+    <meta property="fc:frame:button:1:target" content="https://example.com/cointracker" />
+    
+    <meta property="fc:frame:button:2" content="Crypto News" />
+    <meta property="fc:frame:button:2:action" content="link" />
+    <meta property="fc:frame:button:2:target" content="https://example.com/crypto-news" />
+    
+    <meta property="fc:frame:button:3" content="Portfolio Tracker" />
+    <meta property="fc:frame:button:3:action" content="link" />
+    <meta property="fc:frame:button:3:target" content="https://example.com/portfolio-tracker" />
+</head>
+<body>
+    <h1>My Crypto Apps</h1>
+    <p>Welcome to My Crypto Apps! Here you can find useful tools for managing your crypto investments.</p>
+    <ul>
+        <li><a href="https://example.com/cointracker">CoinTracker</a> - Track your cryptocurrency portfolio.</li>
+        <li><a href="https://example.com/crypto-news">Crypto News</a> - Stay updated with the latest news in the crypto world.</li>
+        <li><a href="https://example.com/portfolio-tracker">Portfolio Tracker</a> - Manage and analyze your crypto investments.</li>
+    </ul>
+</body>
+</html>
